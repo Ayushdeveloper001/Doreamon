@@ -48,7 +48,7 @@ export default class Command extends BaseCommand {
 │⋊ *Name*: *DORA* 🐱
 │⋊ *Prefix*: ${this.client.config.prefix}
 │⋊ *Owner*: *${this.client.config.prefix}mod* Ask Mods if you want to add me in your Group
-│⋊ *SUPPORT GC*: https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO
+│⋊ *SUPPORT GC*: http://gg.gg/113tgd
 ╰────────────┈平和                            \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
