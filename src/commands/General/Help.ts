@@ -63,7 +63,7 @@ export default class Command extends BaseCommand {
  ──❅[ *I WANT DORACAKE* ]❅───
 ┌────────────┈❅
 │   🐈 *DOREAMON* 🐈
-│     *By KAI*
+│     *By Ayush*
 └────────────┈⁂
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
 💙 *Note: Use ${this.client.config.prefix}gadget <command_name> to view the gadgets info*` }
