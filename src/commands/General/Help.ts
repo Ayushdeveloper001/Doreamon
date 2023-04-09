@@ -48,7 +48,7 @@ export default class Command extends BaseCommand {
 │⋊ *Name*: *DORA* 🐱
 │⋊ *Prefix*: ${this.client.config.prefix}
 │⋊ *Owner*: *${this.client.config.prefix}mod* Ask Mods if you want to add me in your Group
-│⋊ *SUPPORT GC*: http://gg.gg/113tgd
+│⋊ *SUPPORT GC*: soon
 ╰────────────┈平和                            \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
@@ -63,7 +63,7 @@ export default class Command extends BaseCommand {
  ──❅[ *I WANT DORACAKE* ]❅───
 ┌────────────┈❅
 │   🐈 *DOREAMON* 🐈
-│     *By KAI*
+│     *By Ayush*
 └────────────┈⁂
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
 💙 *Note: Use ${this.client.config.prefix}gadget <command_name> to view the gadgets info*` }
